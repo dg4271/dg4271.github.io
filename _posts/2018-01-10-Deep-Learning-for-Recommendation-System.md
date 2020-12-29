@@ -1,9 +1,7 @@
 ---
-layout: post
 title: Deep Learning for Recommendation System
-date:   2018-01-10 23:54:05 +0900
-author: dg4271
 categories: Recommendation
+date:   2018-01-10 23:54:05 +0900
 ---
 
 

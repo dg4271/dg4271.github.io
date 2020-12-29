@@ -1,9 +1,9 @@
 ---
-layout: post
 title: CS224U Course Overview
 date:   2019-09-06 23:54:05 +0900
-author: dg4271
-categories: Natural Language Understanding
+categories:
+- Natural Language Understanding
+toc: true
 ---
 
 # CS224U Course Overview

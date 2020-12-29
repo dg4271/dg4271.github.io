@@ -1,9 +1,9 @@
 ---
-layout: post
 title: CS224U Supervised Sentiment Analysis
 date:   2019-10-09 23:54:05 +0900
-author: dg4271
-categories: Natural Language Understanding
+categories:
+- Natural Language Understanding
+toc: true
 ---
 
 # CS224U Supervised sentiment analysis

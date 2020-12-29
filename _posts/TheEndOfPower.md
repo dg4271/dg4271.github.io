@@ -1,7 +1,8 @@
 ---
-layout: post
 title: 권력의 종말 리뷰
 excerpt: 모이제스 나임 <권력의 종말> 리뷰
+categories: Book
+published : false
 ---
 
 ## 권력의 종말

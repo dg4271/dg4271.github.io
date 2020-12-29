@@ -1,8 +1,8 @@
 ---
 title: CS224U Semantic Parsing
 date:   2019-10-19 23:54:05 +0900
-categories: 
-  - Natural Language Understanding
+categories:
+- Natural Language Understanding
 toc: true
 ---
 
