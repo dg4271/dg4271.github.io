@@ -4,6 +4,7 @@ date:   2019-10-09 23:54:05 +0900
 categories:
 - Natural Language Understanding
 toc: true
+toc_sticky: true
 ---
 
 # CS224U Supervised sentiment analysis

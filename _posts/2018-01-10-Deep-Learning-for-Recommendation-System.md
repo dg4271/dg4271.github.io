@@ -2,6 +2,8 @@
 title: Deep Learning for Recommendation System
 categories: Recommendation
 date:   2018-01-10 23:54:05 +0900
+toc: true
+toc_sticky: true
 ---
 
 
