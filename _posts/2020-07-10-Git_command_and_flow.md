@@ -107,6 +107,7 @@ git push
 
 * git 특정 개체 제거
   * 참고 [1](https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EB%82%B4%EB%B6%80-%EC%9A%B4%EC%98%81-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%B5%EA%B5%AC), [2](https://git-scm.com/docs/git-verify-pack), [3](http://minsone.github.io/git/github-advanced-remove-sensitive-data)
+  
 ``` bash
 # pack 파일 별 용량 확인
 git verify-pack -v .git/objects/pack/[.idx]
